@@ -1,9 +1,2 @@
-<컴포넌트>
-UI>
-Input : 수량을 입력
-Cart : 음식을 담는 컨테이너
-Modal
-
-Layout>
-
-Meals>
+useState
+- 장바구니가 보이고 안보이고
