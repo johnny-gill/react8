@@ -1,2 +1,3 @@
-useState
-- 장바구니가 보이고 안보이고
+state
+context
+
